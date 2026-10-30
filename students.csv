@@ -1,0 +1,9 @@
+student_id,name,marks,department
+101,Ravi,85,CSE
+102,Priya,90,ECE
+103,Arun,78,CSE
+104,Neha,,ISE
+105,Kiran,88,ECE
+103,Arun,78,CSE
+106,,72,ISE
+107,Divya,95,CSE
